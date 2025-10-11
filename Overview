@@ -1,5 +1,1 @@
-The Patient Health Monitoring System is an IoT-based project designed to measure and monitor vital health parameters of a patient in real time. It uses various biomedical sensors such as a temperature sensor, pulse sensor, and SpO₂ sensor to continuously track the patient's body temperature, heart rate, and oxygen saturation levels.
 
-The collected data is processed by a microcontroller (such as Arduino or ESP32) and can be displayed on an LCD or OLED screen. The system can also transmit the data wirelessly to a cloud server or mobile application for remote monitoring by doctors or caregivers.
-
-This project aims to provide an affordable and efficient solution for continuous patient health tracking, especially in hospitals, elderly care centers, and remote areas where access to healthcare professionals may be limited.
